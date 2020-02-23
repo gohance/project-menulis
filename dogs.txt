@@ -1,4 +1,9 @@
 ini file gua
 oke deh
 ini gua dogs
+<<<<<<< HEAD
+ini gua dogs
 dogs lagi
+=======
+dogs lagi
+>>>>>>> 8e7fd5a4f698d12a72bbab50b0de7544db254869
