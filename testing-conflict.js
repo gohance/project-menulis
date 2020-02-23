@@ -1,4 +1,6 @@
 egaegaegaega
+ewaldo
+var a = "randrafc membuat conflict"
 aaaaaaaa
 bbbbbbbb
 cccccccc
@@ -7,3 +9,15 @@ kenny
 bbbbbbbb
 cccccccc
 dddddddd
+kenny
+bbbbbbbb
+cccccccc
+dddddddd
+wefhwiowehf
+efiwefhwoif
+fiwefhwei
+nfkwnfwo
+soadfjqpo
+fiwhfow
+fdqwff
+maap
