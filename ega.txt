@@ -2,8 +2,13 @@ Ini dari Ega
 ini biar kita conflict - Gohan
 Dari Ega untuk dunia - Ega
 <<<<<<< HEAD
+<<<<<<< HEAD
 Egaaaaaaa
 GOHAAAAAAAN
+=======
+GOHAAAAAAAN
+......
+>>>>>>> 6e15e1d29366e0e1c58407ca6129936ea08aa875
 =======
 <<<<<<< HEAD
 Kenny Whats Up Bruh
