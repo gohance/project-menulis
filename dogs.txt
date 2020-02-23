@@ -1,3 +1,8 @@
 ini file gua
+<<<<<<< HEAD
 oke deh
 ini gua dogs
+=======
+ini gua dogs
+dogs lagi
+>>>>>>> 009d88086451f31961568054829e15090f38c515
